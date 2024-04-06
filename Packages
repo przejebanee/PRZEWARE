@@ -1,0 +1,14 @@
+
+Package: com.przeware.hoax
+Version: 1.0
+Architecture: iphoneos-arm64e
+Maintainer: przejebanee & smofe1337
+Pre-Depends: rootless-compat(>= 0.1)
+Depends: firmware (>= 11.0), ellekit
+Filename: ./debs/com.przeware.hoax_1.3_iphoneos-arm64.deb
+Priority: optional
+Description: Standleo cheat by PRZEJEBANEE & Smofe1337.
+Author: przejebanee & smofe1337
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: przeware.standleo
+
